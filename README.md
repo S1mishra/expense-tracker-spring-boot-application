@@ -130,18 +130,3 @@ Run tests with:
 ```bash
 mvn test
 ```
-
-## Contributing
-
-1. Create a new branch: `git checkout -b feature/your-feature`
-2. Commit your changes: `git commit -am 'Add new feature'`
-3. Push to the branch: `git push origin feature/your-feature`
-4. Submit a pull request
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Support
-
-For support, email support@example.com or open an issue on the repository.
