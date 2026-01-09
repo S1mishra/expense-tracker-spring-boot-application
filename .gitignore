@@ -8,6 +8,11 @@ release.properties
 dependency-reduced-pom.xml
 .flattened-pom.xml
 
+# Local documentation / Notes
+COMMANDS.md
+INDEX.md
+PROJECT_STATUS.md
+
 # IDE
 .idea/
 .vscode/
